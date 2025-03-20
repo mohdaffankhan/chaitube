@@ -1,6 +1,6 @@
-# YouTube Video Listing
+# Chaitube - YouTube Video Listing
 
-Welcome to **YouTube Video Listing** – a simple yet functional web application that fetches and displays YouTube videos from a public API. This project replicates a YouTube-style video listing page with a responsive grid layout, video filtering, and seamless video playback.
+Welcome to **Chaitube** – a simple yet functional web application that fetches and displays YouTube videos from a public API. This project replicates a YouTube-style video listing page with a responsive grid layout, video filtering, and seamless video playback.
 
 ---
 
