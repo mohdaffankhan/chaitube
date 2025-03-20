@@ -37,7 +37,7 @@ To see the project in action, simply open `index.html` in your web browser.
 ---
 
 ## Screenshots  
-![Chaitube Screenshot](screenshot.png)  
+![Chaitube Screenshot](Screenshot.png)  
 
 ---
 
